@@ -4,10 +4,15 @@
 This repository contains the documentation and code for a 6-week summer training project focused on developing a fantasy cricket game using Python. The project is designed to introduce Python programming and includes comprehensive training on Python basics, object-oriented programming (OOP), databases, and GUI development.
 
 # Training Content
+
 Introduction to Python: Fundamentals and syntax
+
 Python Basics: Data types, control structures, functions, and modules
+
 Object-Oriented Programming (OOP): Classes, objects, inheritance, polymorphism
+
 Databases: SQL, database design, interaction with Python
+
 GUI Development: Building interfaces with Python libraries
 
 # Project Goals
